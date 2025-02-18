@@ -11,17 +11,6 @@ conda_env/
 __pycache__/
 *.py[cod]
 
-# Data files
-data/
-datasets/
-*.csv
-*.tsv
-*.json
-*.xls*
-*.parquet
-*.h5
-*.pkl
-
 # Jupyter Notebook
 .ipynb_checkpoints/
 
